@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"Blue_Relay1, Control_Relay1, Red_Relay1, White_Green_Relay1",CONN8_P2R-08P_OMR,4,G5V-2,
+"H1, H2, H3, H4",MountingHole_4mm_Pad,4,MountingHole_Pad,
+J1,PinSocket_2x05_P2.54mm_Vertical,1,Jumpers,
+J5,PinHeader_1x03_P2.54mm_Vertical,1,SWITCHCONNECTOR,
+J6,PinHeader_1x06_P2.54mm_Vertical,1,DMXINPUTS,
+J7,PinHeader_1x05_P2.54mm_Vertical,1,LEDOUTPUTS,

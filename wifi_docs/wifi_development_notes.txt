@@ -1,0 +1,32 @@
+Adding connectivity to the Mailbox PCB can be done with an ESP32 module. 
+	Perferably one that is FCC approved which would remove the need for FCC testing (which costs several thousands of dollars)
+	
+	
+	
+
+The Communication protocols:
+	CRUCIAL: WIFI for the average consumer and basic control with an app and maybe Alexa/google home
+	EXTRA: Ethernet for a more reliable signal and neighborhood installations. maybe we can run the artnet device universe
+	
+	
+
+
+The following esp modules are being considered: 
+all of them have 
+	4 mb of flash
+	ipx connector for antenna but they also have a pcb antenna version (1U=ipx 1= pcb antenna) for about the same price. 
+	ESP espressif build system.
+	
+
+esp32-c3-min-1u-H4
+	~1.9 per unit
+	WIFI only - FCC certified
+	Bluetooth
+esp32-mini-1u-H4
+	~2.38 per unit
+	WIFI - FCC certified 
+	Bluetooth
+	Ethernet (PHY and Jack need to be added.)
+	
+	
+	
